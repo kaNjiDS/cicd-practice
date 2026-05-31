@@ -24,4 +24,8 @@ jobs:
         run: python -m py_compile app.py
 
       - name: Run tests
+<<<<<<< HEAD
         run: python test.py
+=======
+        run: python test.py
+>>>>>>> 41ad0975cd4384dc4d68130d393a755ecb27ea9d
